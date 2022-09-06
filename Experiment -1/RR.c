@@ -4,7 +4,7 @@
    Date of Creation: 06-09-2022
    Date of Execution: 06-09-2022
 */
-//SOURCE CODE
+//SOURCE Code
 #include<stdio.h>
 main()
 {
