@@ -4,7 +4,7 @@
    Date of Creation: 26-09-2022
    Date of Execution: 26-09-2022
 */
- 
+
 #include<stdio.h>
 main()
 {
